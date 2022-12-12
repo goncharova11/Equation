@@ -1,1 +1,1 @@
-[![build and test](https://github.com/goncharova11/Equation/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/goncharova11/Equation/actions/workflows/build-and-test.yml)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=goncharova11_Equation&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=goncharova11_Equation)
