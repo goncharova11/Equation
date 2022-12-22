@@ -1,6 +1,3 @@
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using ConsoleApp1;
-
 namespace TestProject1
 {
     [TestClass]
