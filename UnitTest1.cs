@@ -1,9 +1,7 @@
 namespace TestProject1
 {
-    [TestClass]
     public class UnitTest1
     {
-        [TestMethod]
         public void NegativeDiscriminant()
         {
             double a = 2;
@@ -13,7 +11,6 @@ namespace TestProject1
             double actual = Equation.Diskriminant(a, b, c);
             Assert.AreEqual(expected, actual);
         }
-        [TestMethod]
         public void PositiveDiscriminant()
         {
             double a = 3;
@@ -23,7 +20,6 @@ namespace TestProject1
             double actual = Equation.Diskriminant(a, b, c);
             Assert.AreEqual(expected, actual);
         }
-        [TestMethod]
         public void ZeroDiscriminant()
         {
             double a = 4;
