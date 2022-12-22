@@ -1,4 +1,4 @@
-[![CI/CD GitHub Actions][(https://github.com/seekerk/gtest/actions/workflows/test-action.yml/badge.svg)](https://github.com/seekerk/gtest/actions/workflows/test-action.yml)](https://github.com/goncharova11/Equation/blob/main/.github/workflows/dotnet-desktop.yml)
+[![CI/CD GitHub Actions]
 [![Coverage Status](https://coveralls.io/repos/github/goncharova11/Equation/badge.svg?branch=main)](https://coveralls.io/github/goncharova11/Equation?branch=main)
 [![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=seekerk_gtest&metric=alert_status)](https://sonarcloud.io/dashboard?id=seekerk_gtest)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=seekerk_ctest&metric=bugs)](https://sonarcloud.io/summary/new_code?id=seekerk_ctest)
