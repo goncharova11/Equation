@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            double a;
+            double a; 
             do
             {
                 Console.WriteLine("Введите значение a, не равное нулю");
