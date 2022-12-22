@@ -1,0 +1,3 @@
+- name: Coveralls
+repo_token: i1mNWn7btiE1MmRbcLcbNgxocA1NBHngi
+        run: coveralls -t ${{ secrets.coveralls_token }} --root . -E ".*external.*" -E ".*tests.*"
