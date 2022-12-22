@@ -10,6 +10,7 @@ on:
 
 env:
   DOTNET_VERSION: '7.0' # The .NET SDK version to use
+  Solution_Name: ConsoleApp1.sln
 
 jobs:
   build-and-test:
