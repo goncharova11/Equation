@@ -1,4 +1,4 @@
-name: dotnet format
+name: dotnet-format
 
 on:
   push:
